@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CVE on The BitLess</title><link>https://thebitless.github.io/tags/cve/</link><description>Recent content in CVE on The BitLess</description><generator>Hugo -- 0.147.9</generator><language>es</language><lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thebitless.github.io/tags/cve/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://thebitless.github.io/posts/test/</link><pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate><guid>https://thebitless.github.io/posts/test/</guid><description>&lt;p>Esto es un test.&lt;/p>
+&lt;h2 id="detalles-técnicos">Detalles técnicos&lt;/h2>
+&lt;p>Aquí se describe el origen de la vulnerabilidad, el vector de ataque y el análisis técnico.&lt;/p>
+&lt;h2 id="poc">PoC&lt;/h2>
+&lt;p>Incluir aquí una prueba de concepto (Proof of Concept) controlada y ética.&lt;/p>
+&lt;h2 id="impacto">Impacto&lt;/h2>
+&lt;p>Se evalúa el impacto potencial, afectación a sistemas, y posibles mitigaciones.&lt;/p></description></item></channel></rss>
