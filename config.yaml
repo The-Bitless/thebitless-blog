@@ -1,0 +1,13 @@
+baseURL: "https://thebitless.github.io/"
+title: "The BitLess"
+theme: "PaperMod"
+languageCode: "es"
+pagination:
+  pagerSize: 5
+
+params:
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowToc: true
+  ShowCodeCopyButtons: true
+  defaultTheme: auto

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The BitLess</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on The BitLess</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis del CVE-2025-1337</title>
+      <link>http://localhost:1313/posts/analisis-cve/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/analisis-cve/</guid>
+      <description>&lt;p&gt;En este post analizamos la vulnerabilidad &lt;strong&gt;CVE-2025-1337&lt;/strong&gt; detectada en un componente ampliamente utilizado.&lt;/p&gt;
+&lt;h2 id=&#34;-detalles-técnicos&#34;&gt;🔍 Detalles técnicos&lt;/h2&gt;
+&lt;p&gt;Aquí se describe el origen de la vulnerabilidad, el vector de ataque y el análisis técnico.&lt;/p&gt;
+&lt;h2 id=&#34;-poc&#34;&gt;🛠️ PoC&lt;/h2&gt;
+&lt;p&gt;Incluir aquí una prueba de concepto (Proof of Concept) controlada y ética.&lt;/p&gt;
+&lt;h2 id=&#34;-impacto&#34;&gt;🧪 Impacto&lt;/h2&gt;
+&lt;p&gt;Se evalúa el impacto potencial, afectación a sistemas, y posibles mitigaciones.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
