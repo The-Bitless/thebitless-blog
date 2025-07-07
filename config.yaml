@@ -1,14 +1,67 @@
 baseURL: "https://the-bitless.github.io/thebitless-blog/"
+languageCode: "en"
 title: "The BitLess"
 theme: "PaperMod"
-languageCode: "es"
+
+# Default content section to show in homepage
+mainSections: ["posts"]
+
+# Pagination settings
 pagination:
   pagerSize: 5
 
+# Theme parameters
 params:
+  env: production
+
+  defaultTheme: auto
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowWordCount: true
   ShowToc: true
   ShowCodeCopyButtons: true
-  defaultTheme: auto
-  favicon: "favicon.ico"
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  # Assets (favicon, logo, etc.)
+  assets:
+    favicon: "favicon.ico"
+    # logo: "logo.png"  
+
+  # Social icons 
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/the-bitless"
+    - name: "RSS"
+      url: "index.xml"
+
+# Menu items (optional)
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 3
+    - identifier: series
+      name: Series
+      url: /series/
+      weight: 4
+
+# Enable RSS and sitemap
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Enable taxonomy for tags and series
+taxonomies:
+  tag: tags
+  series: series
