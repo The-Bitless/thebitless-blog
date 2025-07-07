@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2025-07-07T19:13:34+02:00
-draft: true
+url: "/about/"
+layout: "page"
 ---
 
 ## Who we are
