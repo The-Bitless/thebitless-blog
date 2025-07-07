@@ -11,3 +11,4 @@ params:
   ShowToc: true
   ShowCodeCopyButtons: true
   defaultTheme: auto
+  favicon: "favicon.ico"
